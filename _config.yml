@@ -75,6 +75,10 @@ defaults:
             path: "vim"
         values:
             category: "vim"
+		scope:
+            path: "hack"
+        values:
+            category: "hack"
     - 
         scope:
             path: "dada"
