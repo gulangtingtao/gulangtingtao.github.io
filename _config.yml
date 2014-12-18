@@ -7,7 +7,7 @@ excerpt_separator: "\n\n\n\n"
 
 ### self params
 site_name: gulangtingtao
-site_description: Pound; Listen to the waves | 鼓浪听涛
+site_description: Pound &#38;;Listen to the waves | 鼓浪听涛
 url: http://gulangtingtao.github.io/
 author: gulangtingtao
 author_github_url: https://github.com/gulangtingtao
@@ -17,7 +17,7 @@ author_email: gulangtingtaoig@gmail.com
 duoshuo_short_name: gulangtingtao
 #disqus_shortname: gulangtingtao
 #google_analytics_ua: UA-52060953-1
-cnzz_id: 1253396463
+#cnzz_id: 1253396463
 
 
 
@@ -80,5 +80,5 @@ defaults:
             path: "dada"
         values:
             layout: "dada_page"
-            category: "鼓浪听涛的happiness"
+            category: "happiness"
 
