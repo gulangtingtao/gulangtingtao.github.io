@@ -75,6 +75,7 @@ defaults:
             path: "vim"
         values:
             category: "vim"
+	-		
 		scope:
             path: "hack"
         values:
