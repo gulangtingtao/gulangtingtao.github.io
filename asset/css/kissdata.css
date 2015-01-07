@@ -181,7 +181,7 @@ span#site_description {
 .page {
     background-color: #444;
     color: #eee;
-    padding: 15px;
+    padding: 10px;
     border-radius: 3px;
 }
 .page h1 {
@@ -237,5 +237,5 @@ span#site_description {
     margin-bottom: 5px;
 }
 .page .author-date .date {
-    margin-right: 40px;
+    margin-right: 30px;
 }

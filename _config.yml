@@ -11,13 +11,12 @@ site_description: Pound &#38;Listen to the waves | 鼓浪听涛
 url: http://gulangtingtao.github.io/
 author: gulangtingtao
 author_github_url: https://github.com/gulangtingtao
-author_email: gulangtingtaoig@gmail.com
+author_email: gulangtingtaoi@gmail.com
 
 ## if you don't want something below, just comment it or delete it. But if you want to use, please change your ids.
 duoshuo_short_name: gulangtingtao
 disqus_shortname: gulangtingtao
-#google_analytics_ua: UA-52060953-1
-#cnzz_id: 1253396463
+
 
 
 
