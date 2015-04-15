@@ -36,6 +36,11 @@ defaults:
             category: "lua"
     - 
         scope:
+            path: "android"
+        values:
+            category: "android"
+    -	
+        scope:
             path: "life"
         values:
             category: "life"
